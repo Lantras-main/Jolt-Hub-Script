@@ -5,5 +5,3 @@
 🟡 - UPDATING / INDEV
 
 🔴 - DOWN / FIXING
-
-STATUS : 🟡 - UPDATING / INDEV
